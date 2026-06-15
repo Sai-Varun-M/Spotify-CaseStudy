@@ -68,6 +68,10 @@ The MVP focuses on anonymity, curiosity, and frictionless discovery.
 2.  **The Orbit View:** Tapping the module opens a stylized, anonymous profile (e.g., "Twin #4092"). It displays their "On Repeat" tracks, recently created playlists, and top genres.
 3.  **The Action:** Users can listen to previews, save individual tracks, or hit "Sync Twin Playlist" to automatically generate a dynamic playlist of their twin's favorites.
 
+<p align="center">
+  <img src="./spotify_orbit_mockup.png" alt="Spotify Orbit Mobile UI Mockup" width="380" />
+</p>
+
 ---
 
 ## 6. Go-to-Market (GTM) Strategy
